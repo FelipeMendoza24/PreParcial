@@ -29,7 +29,7 @@ public class MasterTraining {
 
         double pab = p.averageBeats();
 
-        if (pab < 90 || pab > 160) {
+        if (pab < Plan.MIN_BEATS || pab > Plan.MAX_BEATS) {
             result = new Plan("H", p.getCyclist());
             addPlan(result);
         }
