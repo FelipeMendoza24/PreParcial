@@ -35,6 +35,7 @@ Diseñe el constructor de la clase Plan que recibe como atributos el tipo de pla
 ## IV. (20%) Conceptos
 
 * ¿Qué es la sobrecarga de métodos?, ¿Cuándo es útil o apropiado realizar una sobrecarga de un método y cuáles son sus beneficios?
+*- La sobrecarga de métodos es cuando en una misma clase tenemos dos o más métodos con el mismo nombre, Java los diferencia por los parametros, ya que estos no pueden tener los mismos parametros. Un ejemplo seria que en una misma clase tuvieramos dos métodos llamados correr, pero el primer correr recibe un string, y el segundo recibe un int. De esta manera Java decide que método llamar según los tipos de variables que se pasan al método. -*
 * ¿Cuáles son las 5 etapas del proceso de desarrollo de software vistas en clase? ¿Cuál es el propósito de cada una de ellas?
 
 ## V. (20%) Bono 
