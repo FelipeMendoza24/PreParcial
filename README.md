@@ -17,6 +17,8 @@ Presente el mapa de memoria correspondiente a:
 * Nairo Quintana nacido en 4 de Febrero de 1990, ha realizado 2 planes de entrenamiento con MasterTraining, el primer plan comenzó el 1 de Enero del 2017 y terminó el 1 de Febrero de 2017, el segundo plan comenzó el 19 de Febrero de 2018 y aún no termina, aunque solo tendrá una duración de 2 semanas, con 2 sesiones por semanas, los días 2 y 4 de la semana que corresponden a los días Martes y Jueves. Para los dos planes Lance Amstrong ha sido su entrenador.
 * Nairo ha realizado 2 actividades del segundo plan. La primera el martes 20 de Febrero, con duración de 50 minutos, completó una distancia de 100Km. La segunda el Jueves 22 de Febrero, con duración de 3 horas, completó una distancia de 180Km.
 
+<a href="https://ibb.co/t4mXH39"><img src="https://i.ibb.co/Y3RZNbx/IMG-0554.jpg" alt="IMG-0554" border="0"></a>
+
 ## II. (35%) CÓDIGO
 
 Implemente ÚNICAMENTE LO DISEÑADO para el método diseñado.
