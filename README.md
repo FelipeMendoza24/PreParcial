@@ -11,6 +11,10 @@ una sesión de trabajo planteada.
 
 ![](img/POOB-TEST-FIRST-MASTER-TRAINING.svg)
 
+## Nuevo Diagrama
+
+<a href="https://ibb.co/Qf15tNm"><img src="https://i.ibb.co/R9V5d0H/POOB-TEST-FIRST-MASTER-TRAINING-1.png" alt="POOB-TEST-FIRST-MASTER-TRAINING-1" border="0"></a>
+
 ## I. (25%) MEMORIA
 
 Presente el mapa de memoria correspondiente a:
