@@ -32,7 +32,7 @@ Implemente ÚNICAMENTE LO DISEÑADO para el método diseñado.
 
 Diseñe el constructor de la clase Plan que recibe como atributos el tipo de plan y el ciclista. Si el tipo de plan asignado es “Heart Care”, deberá crear un plan de 4 semanas de 1 hora de duración, con sesiones para los días Lunes, Miércoles y Viernes. El plan deberá quedar asignado al último entrenador con el cuál el ciclista entreno dada su actividad.
 
-![](<a href="https://ibb.co/L5fYqxS"><img src="https://i.ibb.co/bJnQys1/sequence-Preparcial.png" alt="sequence-Preparcial" border="0"></a>)
+<a href="https://ibb.co/L5fYqxS"><img src="https://i.ibb.co/bJnQys1/sequence-Preparcial.png" alt="sequence-Preparcial" border="0"></a>
 
 ## IV. (20%) Conceptos
 
